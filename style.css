@@ -1,0 +1,62 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background: #f8f8f8;
+  color: #333;
+}
+
+header {
+  background: #4CAF50;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+header nav {
+  margin-top: 10px;
+}
+
+header nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+section {
+  padding: 40px 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+section h2 {
+  margin-bottom: 15px;
+  color: #4CAF50;
+}
+
+.imagens {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.imagens img {
+  width: 100%;
+  max-width: 300px;
+  border-radius: 8px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #ddd;
+  color: #444;
+  margin-top: 40px;
+}
