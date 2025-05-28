@@ -1,62 +1,44 @@
-/* Reset básico */
-* {
+style.css:
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-  background: #f8f8f8;
+  background: #f4f4f9;
   color: #333;
+  line-height: 1.6;
 }
 
 header {
-  background: #4CAF50;
+  background: linear-gradient(to right, #6dbf63, #42a5f5);
   color: white;
-  padding: 20px;
+  padding: 2rem 1rem;
   text-align: center;
 }
 
-header nav {
-  margin-top: 10px;
-}
-
-header nav a {
-  color: white;
-  margin: 0 15px;
-  text-decoration: none;
-  font-weight: bold;
-}
-
-section {
-  padding: 40px 20px;
-  max-width: 800px;
+main {
+  padding: 2rem;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  max-width: 1000px;
   margin: auto;
 }
 
-section h2 {
-  margin-bottom: 15px;
-  color: #4CAF50;
+section {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 1rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
 
-.imagens {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-}
-
-.imagens img {
-  width: 100%;
-  max-width: 300px;
-  border-radius: 8px;
+h2 {
+  color: #2e7d32;
 }
 
 footer {
+  background: #2e7d32;
+  color: white;
   text-align: center;
-  padding: 20px;
-  background: #ddd;
-  color: #444;
-  margin-top: 40px;
+  padding: 1rem;
+  margin-top: 2rem;
 }
