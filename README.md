@@ -1,4 +1,4 @@
-# Campo e Cidade, Motores da Economia
+# Campo e Cidade: Motores Interligados da Economia
 
 ## Descrição do Projeto
 
