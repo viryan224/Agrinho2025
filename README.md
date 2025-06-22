@@ -29,7 +29,7 @@ O site foi projetado para ser intuitivo e acessível. A seguir, as instruções 
 
 ## Recursos Técnicos 
 
-O desenvolvimento deste site utilizou exclusivamente **HTML5** e **CSS3**, com foco em práticas modernas e na aplicação de recursos avançados para atender aos critérios mais exigentes da avaliação.
+O desenvolvimento deste site utilizou exclusivamente **HTML** e **CSS**, com foco em práticas modernas e na aplicação de recursos avançados para atender aos critérios mais exigentes da avaliação.
 
 * **Estrutura HTML5 Semântica:** O código utiliza tags como `<header>`, `<footer>`, `<main>`, `<section>` e `<nav>` para garantir uma estrutura bem organizada e com significado.
 
