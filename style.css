@@ -167,6 +167,15 @@ li {
     font-style: italic;
 }
 
+/* REGRA DE ESTILO ADICIONADA */
+.image-source {
+    font-size: 0.75em; /* Texto menor */
+    color: #888; /* Cinza claro */
+    margin-top: 8px; /* Espaço acima */
+    text-align: right; /* Alinhado à direita */
+}
+
+
 /* 5. BLOCO DE LINKS E FORMULÁRIO (INTERAÇÃO) */
 .links-videos {
     margin-top: 25px;
