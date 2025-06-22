@@ -1,4 +1,4 @@
-# Website Informativo: Campo e Cidade, Motores da Economia
+# Campo e Cidade, Motores da Economia
 
 ## Descrição do Projeto
 
